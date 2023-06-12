@@ -1,0 +1,9 @@
+* asdf-dependency-graph
+
+A minimal wrapper around `dot` available at least on Linux systems to generate dependency-graphs.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/digikar99/asdf-dependency-graph.git |
+| commit  | f2c65ee                                                    |
+| systems | asdf-dependency-graph                                      |
+|---------+------------------------------------------------------------|
