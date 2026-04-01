@@ -7,3 +7,4 @@ A minimal wrapper around `dot` available at least on Linux systems to generate d
 | commit  | f2c65ee                                                    |
 | systems | asdf-dependency-graph                                      |
 |---------+------------------------------------------------------------|
+ 
